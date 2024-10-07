@@ -1,4 +1,4 @@
-# aqua_drink_water
+# Internet of Things Assistant 
 
 A new Flutter project.
 
